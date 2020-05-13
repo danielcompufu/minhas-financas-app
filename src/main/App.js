@@ -6,7 +6,7 @@ import 'toastr/build/toastr.css'
 
 import 'toastr/build/toastr.min.js'
 
-import Rotas from './route';
+import Rotas from './rotas';
 import Navbar from '../components/navbar';
 
 class App extends React.Component {
